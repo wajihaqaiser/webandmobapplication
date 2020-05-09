@@ -1,0 +1,436 @@
+ .button1{
+    padding: 7px 8px;
+    font-size: 11.5px;
+    color: green;
+    cursor: pointer;
+}
+.button2{
+    padding: 7px 8px;
+    font-size: 11.5px;
+    color: green;
+    cursor: pointer;
+}
+.button3{
+    padding: 7px 8px;
+    font-size: 11.5px;
+    color: green;
+    cursor: pointer;
+}
+.button{
+    position: absolute;
+    top: 10px;
+    right: 79px;
+}
+.para{
+    position: absolute;
+    top: 15px;
+    left: 392px;
+    color: white;
+    font-family:sans-serif ;
+    font-size: 15px;
+}
+ .main1{
+    background-color: rgba(67, 67, 218, 0.87);
+    height: 53px;
+} 
+.image{
+    position: absolute;
+    top: 13px;
+    /* left: 72px; */
+    cursor: pointer;
+}
+.button4{
+     /* display: inline;  */
+    background-color:  rgba(67, 67, 218, 0.87);
+    color: white;
+    border: none;
+    border-radius: 80px; 
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 9px 15px;
+    font-weight: bold;
+    margin-left: 535px; 
+    position: absolute;
+    top: 73px;
+    cursor: pointer;
+}
+.tab{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 625px;
+    position: absolute;
+    top: 84px;
+    cursor: pointer;
+}
+
+.one:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+     /* position: fixed;  */
+    /* top: 1em;  */
+}
+.two:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+     /* position: fixed;  */
+    /* top: 1em;  */
+}
+.three:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+     /* position: fixed;  */
+    /* top: 1em;  */
+}
+.four:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+     /* position: fixed;  */
+    /* top: 1em;  */
+}
+.five:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+     /* position: fixed;  */
+    /* top: 1em;  */
+}
+.six:hover {
+    background-color: rgba(67, 67, 218, 0.87);
+    border-radius: 80px;
+    padding: 1px 7px;
+    font-weight: bold;
+    color: white;
+      /* position: absolute;  
+    top: 1em;   */
+}
+.main4{
+    height: 49px;
+    width: 100%;
+    background-color: rgb(243, 235, 235);
+}
+.background{
+    height: 28.5px;
+    width: 90%;
+    background-color: rgba(67, 67, 218, 0.87);
+    position: absolute;
+    left: 58px;
+    top: 625px;
+    }
+.news{
+        font-family: sans-serif;
+        color: rgb(51, 221, 51);
+        font-weight: bold;
+        font-size: 15px;
+    }
+.detail{
+    font-family: sans-serif;
+        color: whitesmoke;
+        font-weight: bold;
+        font-size: 15px;
+}
+.more{
+    font-family: sans-serif;
+     color: rgb(3, 3, 77);
+        font-weight: bold;
+        font-size: 15px;
+}
+h1{
+    text-align: center;
+    margin-left: 40%;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 700px;
+}
+.intro{
+    color: rgb(71, 71, 240);
+}
+.duction{
+    color: rgb(14, 167, 14);
+}
+hr{
+    position: absolute;
+    top: 768px;
+}
+
+.image1{
+    
+    position: absolute;
+    top: 750px;
+     left: 50%; 
+} 
+.para1{
+    position: absolute;
+    top: 814px;
+    margin-left: 152px;
+    margin-right: 152px;
+    text-align: justify;
+    color: rgb(104, 101, 101);
+    line-height: 1.9;
+    visibility: visible;
+    font-size: 15px;
+}
+.backG1{
+    background-color: rgba(9, 9, 201, 0.87) ;
+    width: 100%;
+    height: 310px;
+    position: absolute;
+    top: 1370px ;
+
+}
+.image2{
+    position: absolute;
+     top: 79px; 
+     margin-left: 158px;
+     margin-right: 148px; 
+     }
+.head1{
+     position: absolute;
+     top: 131px; 
+     margin-left: 100px;
+     margin-right: 90px; 
+     color: white;
+     /* font-size: 500px; */
+}
+.heading{
+    font-size: 50px;
+}
+
+.head2{
+    position: absolute;
+    top: 205px; 
+    margin-left: 50px;
+    /* margin-right: 55px;  */
+    color: white;
+    }
+.main9{
+    position: relative;
+    top: 1080px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.what{
+    color: rgb(71, 71, 240);
+    
+}
+.doing{
+    color: rgb(14, 167, 14);
+}
+.line{
+    position: absolute;
+    top: 1808px;
+
+} 
+.image3{
+    position: absolute;
+    top: 1794px;
+    left: 48%;
+
+} 
+.table1{
+    width: 350px;
+    height: 185px;
+    border: 25px  solid white;
+    box-shadow:  4px 4px 9px 2px rgb(182, 179, 179);
+    }
+.tab1{
+    position: absolute;
+    top: 1890px;
+    left: 60px;
+    }
+.tab2{
+    position: absolute;
+    top: 1890px;
+    left: 445px;
+    }
+.tab3{
+    position: absolute;
+    top: 1890px;
+    left: 830px;
+    }
+.tab4{
+    position: absolute;
+    top: 2110px;
+    left: 60px;
+    
+}
+.tab5{
+    position: absolute;
+    top: 2110px;
+    left: 445px;
+    
+}
+.tab6{
+    position: absolute;
+    top: 2110px;
+    left: 830px;
+    
+}
+.cursor{
+    cursor: pointer;
+}
+.mission{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: 1720px;
+    color: rgb(71, 71, 240);
+    
+}
+.longline{
+    color: rgb(232,232,232);
+}
+.hepa{
+    color: rgb(71, 71, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.border10{
+    position: absolute;
+    top: 2517px;
+    left: 50px;
+    height: 80px;
+    width: 360px;
+    border: 1px solid rgb(232,232,232);
+    background-color: rgb(248,248,248);
+}
+.border20{
+    position: absolute;
+    top: 2517px;
+    left: 440px;
+    height: 80px;
+    width: 350px;
+    border: 1px solid rgb(232,232,232);
+    background-color: rgb(248,248,248);
+}
+.border30{
+    position: absolute;
+    top: 2617px;
+    left: 50px;
+    height: 80px;
+    width: 360px;
+    border: 1px solid rgb(232,232,232);
+    background-color: rgb(248,248,248);
+}
+.border40{
+    position: absolute;
+    top: 2617px;
+    left: 440px;
+    height: 80px;
+    width: 350px;
+    border: 1px solid rgb(232,232,232);
+    background-color: rgb(248,248,248);
+}
+.border50{
+    position: absolute;
+    top: 2517px;
+    left: 830px;
+    height: 50px;
+    width: 250px;
+}
+.slideup{
+    font-family: sans-serif;
+     color: rgb(70, 70, 243);
+        font-size: 15px;
+}
+.info{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(114, 113, 113);
+}
+
+
+.main13{
+    position: relative;
+    top: 1400px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-weight: bold; */
+    }
+.line1{
+        position: absolute;
+        top: 2941px;
+    
+    } 
+.image4{
+        position: absolute;
+        top: 2925px;
+        left: 50%;
+    
+    } 
+.carousel-inner{
+        cursor: pointer;
+    }
+.main15{
+        position: absolute;
+        top: 3000px;
+        left: 60px;
+        right: 60px;
+    }
+.main16{
+        position: absolute;
+        top: 3350px;
+        height: 360px;
+        width: 100%;
+        /* background-color: #666666; */
+        background-color: rgb(43, 43, 43);
+    }
+.bg{
+        position: absolute;
+        top: 360px;
+        height: 45px;
+        width: 100%;
+        background-color: rgb(65, 65, 255);
+    }
+.last{
+        position: absolute;
+        top: 77px;
+        left: 449px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 17px;
+        }
+th{
+    color: white;
+}
+.one1{
+    color: #aca4a4;
+    position: absolute;
+    top: 105px;
+    left: 58px;
+}
+.two2{
+    color: #aca4a4;
+    position: absolute;
+    top: 167px;
+    left: 28px;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-size: 14px;
+    line-height: 25px;
+    
+}
+ul{
+    list-style-type: none;
+}
+i{
+    font-size: 27px;
+    color:rgb(34, 34, 240);
+}
+.fontawe{
+    position: absolute;
+    top: 105px;
+    left: 755px;
+}
+ 
